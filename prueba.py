@@ -64,3 +64,5 @@ else:
 
     conversion_final = ' '.join(conversion)
     print(f"Código morse de {palabra}: {conversion_final}")
+
+#Si vas a probar el codigo morse sin espacios entre las letras escribe "....---.-...-" super recomendado
